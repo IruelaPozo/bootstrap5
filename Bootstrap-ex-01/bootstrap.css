@@ -1,0 +1,37 @@
+.font{
+
+    font-family: 'Krona One', sans-serif;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.width_section{
+
+    width: 100%;
+    height: 15rem;
+    padding: 80px;
+    text-align: center;
+    
+
+}
+
+.bg-image{
+
+    background-image: url(./assets/pexels-cottonbro-studio-3585091.jpg);
+
+    background-size: cover;
+    min-height: 100vh;
+    background-attachment: fixed;
+
+}
+
+.setup_bg_image{
+
+padding: 100px;
+
+}
+
+.margin{
+
+    margin-top: 15rem;
+}
